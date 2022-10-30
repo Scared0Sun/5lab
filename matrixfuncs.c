@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-#define N 4
+#define N 10
 #define M 3
 
 void work()
