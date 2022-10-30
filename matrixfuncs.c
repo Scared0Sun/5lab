@@ -2,8 +2,8 @@
 
 #include <stdio.h>
 
-#define N 4
-#define M 3
+#define N 10
+#define M 10
 
 void work()
 {
